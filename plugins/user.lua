@@ -9,4 +9,12 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "xiyaowong/transparent.nvim",
+    cmd = {
+      "TransparentEnable",
+      "TransparentDisable",
+      "TransparentToggle",
+    },
+  }
 }

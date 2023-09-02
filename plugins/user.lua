@@ -16,5 +16,8 @@ return {
       "TransparentDisable",
       "TransparentToggle",
     },
+  },
+  {
+    "styled-components/vim-styled-components",
   }
 }
